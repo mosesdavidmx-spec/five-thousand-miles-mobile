@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "FIVE THOUSAND MILES",
+    "slug": "five-thousand-miles-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "five-thousand-miles",
+    "android": {
+      "package": "com.fivethousandmiles.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fivethousandmiles.app"
+    }
+  }
+}
