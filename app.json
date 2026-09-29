@@ -11,6 +11,11 @@
     },
     "ios": {
       "bundleIdentifier": "com.fivethousandmiles.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3ec61419-7a84-4b9f-85f5-d279afe3551a"
+      }
     }
   }
 }
